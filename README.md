@@ -125,7 +125,7 @@ pipeline{
 
 **Here's How It Typically Works:**
 - Cloud Plugin:-
-    * Jenkins provides plugins that allow integration with various cloud providers `(e.g. Amazon EC2, Google Compute Engine, Microsoft Azure)`.
+    * Jenkins provides plugins that allow integration with various cloud providers (e.g. `Amazon EC2`, `Google Compute Engine`, `Microsoft Azure`).
     * These plugins enable Jenkins to communicate with the cloud provider's API to provision and manage vitual  machine as a Jenkins node. 
 - Templates:-
     * Cloud plugins usually allow you to define templates for virtual machine instaces, speccifying attributes such as operating system, harware configuration, software environment, etc. 
